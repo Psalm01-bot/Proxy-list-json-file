@@ -1,1 +1,10 @@
-
+[
+  { "host": "89.58.45.94", "port": 28262, "protocol": "socks5" },
+  { "host": "89.58.45.94", "port": 11337, "protocol": "socks5" },
+  { "host": "152.53.194.55", "port": 39523, "protocol": "socks5" },
+  { "host": "89.58.45.94", "port": 58973, "protocol": "socks5" },
+  { "host": "152.53.171.242", "port": 8948, "protocol": "socks5" },
+  { "host": "152.53.171.242", "port": 15699, "protocol": "socks5" },
+  { "host": "152.53.168.53", "port": 41329, "protocol": "socks5" },
+  { "host": "152.53.171.242", "port": 63564, "protocol": "socks5" }
+]
